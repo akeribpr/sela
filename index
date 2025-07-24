@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>סלה בקטר - המטבע של הגאולה</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      direction: rtl;
+      background-color: #f9f9f9;
+      margin: 0;
+      padding: 0;
+    }
+    header {s
+      background-color: #005577;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    main {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      background-color: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    h1 {
+      color: #003344;
+    }
+    p {
+      line-height: 1.6;
+    }
+    .cta {
+      text-align: center;
+      margin-top: 30px;
+    }
+    .cta input, .cta button {
+      padding: 10px;
+      font-size: 1em;
+      margin: 5px;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      color: gray;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>סלה בקטר</h1>
+    <h2>המטבע הרוחני הראשון לגאולה</h2>
+  </header>
+  <main>
+    <h1>כל מעשה טוב – שווה ערך</h1>
+    <p>
+      "סלה בקטר" הוא המטבע הראשון בעולם שמתגמל אותך על מעשים של קדושה:
+      לימוד תורה, תפילה, צדקה, חסד – כל אלו הופכים למטבעות דיגיטליים שיכולים לשמש בתוך קהילות של רוח.
+    </p>
+    <p>
+      העולם עובר למהפכה: הכלכלה של הגאולה כבר כאן. במקום לרדוף אחרי כסף – בוא ניצור ערך דרך נשמה.
+    </p>
+    <p>
+      הצטרפו עכשיו ובנו איתנו שוק חדש – שבו כל מעשה טוב נחשב.
+    </p>
+    <div class="cta">
+      <h3>הירשמו עכשיו ותקבלו מטבע "סלה" ראשון במתנה!</h3>
+      <input type="text" placeholder="שם מלא">
+      <input type="email" placeholder="כתובת אימייל">
+      <button>שליחה</button>
+    </div>
+  </main>
+  <footer>
+    &copy; 2025 סלה בקטר. כל הזכויות שמורות.
+  </footer>
+</body>
+</html>
